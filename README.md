@@ -7,5 +7,4 @@ This resource explains how to use rabbitmq with nodejs in a simple way, so I doc
 1. npm install
 2. docker run -d --name rabbitmq -p 5672:5672 rabbitmq
 
-For publisher = npm run publisher
-For consumer = npm run consumer
+Note: When you want to start a publisher, use the npm run publisher command. When you want to start a consumer, use the npm run consumer command.
