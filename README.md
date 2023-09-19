@@ -6,3 +6,5 @@ This resource explains how to use rabbitmq with nodejs in a simple way, so I doc
 
 1. npm install
 2. docker run -d --name rabbitmq -p 5672:5672 rabbitmq
+
+Note: When you want start use npm run.
